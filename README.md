@@ -15,9 +15,9 @@ Prompts the user to enter two items, then calculates and displays the total cost
 
 ### 📁 LabPractices
 A collection of smaller Java labs designed to reinforce core programming skills:
-- **PeopleWeights.java** – Uses arrays to calculate total, average, and max weight
-- **LabProgram.java** – Method-based driving cost calculator
+- **DrivingCost.java** – Method-based driving cost calculator
 - **ParseStrings.java** – Parses comma-separated strings with input validation
+- **PeopleWeights.java** – Uses arrays to calculate total, average, and max weight
 
 ## Topics Covered
 

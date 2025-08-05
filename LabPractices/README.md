@@ -7,7 +7,7 @@ This folder contains a collection of smaller Java labs completed as part of the 
 - **PeopleWeights.java**  
   Prompts user to enter five weights.  Calculates and displays total weight, average weight, and maximum weight using an array.
 
-- **LabProgram.java**  
+- **DrivingCost.java**  
   Calculates the cost of driving a given number of miles.  Demonstrates method creation and reuse.
 
 - **ParseStrings.java**  
